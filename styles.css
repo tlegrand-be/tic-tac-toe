@@ -1,0 +1,50 @@
+body {
+  width: 100%;
+  text-align: center;
+  margin-top: 12%;
+}
+
+.play {
+  font-size: 20px;
+}
+
+#openGame {
+  width: 140px;
+  padding: 10px;
+  border: none;
+  background-color: rgb(136, 205, 232);
+  letter-spacing: 2px;
+  border-radius: 10px;
+  text-align:center;
+}
+
+#openGame:hover {
+  cursor: pointer;
+  background-color: rgb(83, 190, 232);
+}
+
+
+#hidden-elements {
+  display: none;
+}
+
+#ttt2 {
+  color: black;
+  font-size: 30px;
+}
+
+.button-style {
+  text-align: center;
+}
+
+#chooseX {
+  padding: 5px;
+  margin-left: -5%;
+  margin-top: 1%;
+}
+
+#chooseO {
+  padding: 5px;
+  margin-right: -5%;
+  margin-left: 2%;
+}
